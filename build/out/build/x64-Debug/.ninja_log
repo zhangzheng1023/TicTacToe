@@ -1,0 +1,6 @@
+# ninja log v5
+1	412	6851982094680476	CMakeFiles/main_test.dir/C_/Users/张正/source/repos/TicTacToe/src/player.cc.obj	d9599191d70d8db8
+9	259	6851980606159887	CMakeFiles/main_test.dir/C_/Users/张正/source/repos/TicTacToe/src/chessboard.cc.obj	d996cb021aef9de9
+3	190	6851984082377010	build.ninja	f9cddc8a9ba86a14
+5	414	6851982094690480	CMakeFiles/main_test.dir/C_/Users/张正/source/repos/TicTacToe/src/server/main.cc.obj	1a4235a2034cb4b4
+414	718	6851982097680523	main_test.exe	a6f23b52a85399f3

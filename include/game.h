@@ -10,7 +10,6 @@ using std::vector;
 class Game() {
 public:
     bool check();  // check win
-    bool paly()
 
 private:
     ChessBoard chess_board;

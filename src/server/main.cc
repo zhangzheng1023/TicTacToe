@@ -3,15 +3,13 @@
  * @CreateTime 2022/9/18
  * *********************/
 
-#include "locker.h"
-#include <iostream>
+#include "../../include/locker.h"
+#include "../../include/player.h" 
 
 int main() {
-    Locker m_lock;
-
-    if (m_lock.lock()) std::cout << 1232 << std::endl;
-    m_lock.unlock();
-    if (m_lock.lock()) std::cout << 99900 << std::endl;
-
+    //Locker m_lock;
+    Player p1;
+    vector<int8_t> test = { 0, 0, 0, 0, 1, 2, 0, 1 };
+    p1.showBoard(test);
     return 0;
 }

@@ -1,0 +1,13 @@
+{
+  "ActiveTargetSystem": "192.168.15.131",
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\out",
+    "\\include",
+    "\\src",
+    "\\src\\server"
+  ],
+  "SelectedNode": "\\src\\server\\main.cc",
+  "PreviewInSolutionExplorer": false
+}
